@@ -1,8 +1,8 @@
 ####Dynamic-Scheduling-Optimizer######- Northeastern University
-# Prof.Xiaoning Jin, Prof.Kamarthi
-# PhD student: Anqi He, Mengkai Xu
+Prof.Xiaoning Jin, Prof.Kamarthi
+PhD student: Anqi He, Mengkai Xu
 
-# This is the Demo version of the dynamic scheduling optimizer for test. 
+This is the Demo version of the dynamic scheduling optimizer for test. 
 
 1. Input Dataset (path.mat)
 Input Dataset is N X M matrix which consists of multiple degradation paths of predicted machine health values from PDX
