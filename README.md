@@ -1,6 +1,6 @@
 Dynamic-Scheduling-Optimizer
 ===
-Prof.Xiaoning Jin, Prof.Kamarthi
+Prof.Xiaoning Jin, Prof.Kamarthi,
 PhD student: Anqi He, Mengkai Xu
 
 This is the Demo version of the dynamic scheduling optimizer for test. 
