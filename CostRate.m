@@ -1,7 +1,6 @@
 function C = CostRate(x)
 % C = CostRate(x) calculates the cost rate based on the predicted degradation path
-% x(1) and x(2) are chosen from a discrete set
-
+% The input x(1) and x(2) 
 % Map the discrete variates
 x = MapVariables(x);
 
