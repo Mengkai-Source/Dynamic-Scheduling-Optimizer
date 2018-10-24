@@ -1,7 +1,19 @@
 function C = CostRate(x)
-% C = CostRate(x) calculates the cost rate based on the predicted degradation path
-% The input x(1) and x(2) 
-% Map the discrete variates
+%  This function is the objective function to calculate the 'cost' metric.
+%  (CostRate(x) calculates the cost rate based on the predicted degradation
+%  path)
+
+%  Inputs:
+%         A vector x contains health index values, x(1) and x(2) map the
+%         discrete variates 
+%
+%  Outputs:
+%        The optimized result of the 'cost' metric for optimizing the two threshold.  
+%         
+%
+%  NU_Version1.0
+%  by Anqi He, Northeastern University, Boston
+
 x = MapVariables(x);
 
 % Calculate the cost rate
